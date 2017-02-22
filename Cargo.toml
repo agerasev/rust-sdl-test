@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Alexey Gerasev <alexey.gerasev@gmail.com>"]
 
 [dependencies]
-sdl2 = "0.24.0"
 num = "0.1.36"
+sdl2 = "0.24.0"
+sdl2_ttf = "0.24.0"
